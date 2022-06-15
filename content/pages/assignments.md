@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the final assignment for the course,
+  a formal presentation before the class on recent research.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
