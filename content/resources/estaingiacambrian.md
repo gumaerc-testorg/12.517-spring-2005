@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Estaingia Cambrian
 uid: 8870c19b-de7f-e5e8-17e4-5de5daaed923
 ---
 Photo of a Estaingia fossils.
-

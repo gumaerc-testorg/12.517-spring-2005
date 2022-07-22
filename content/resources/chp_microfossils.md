@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Apex Microfossils
 uid: 9ab283a6-a1b7-d0c3-3c79-d6493a4046cb
 ---
 Bacterial microfossils from the Apex Formation in Australia, dated 3.5 billion years ago. (Courtesy of NASA.)
-
