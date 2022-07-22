@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the final assignment for the course,
+  a formal presentation before the class on recent research.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8b4fdc9c-5516-9dec-9caa-25578a0abdae
 ---
